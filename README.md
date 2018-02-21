@@ -68,11 +68,12 @@ Download the newest version of [iTerm](http://iterm2.com/)
 
 Preferences:
   General
-    * Confirm closing multiple sessions OFF
-    * Confirm "Quit iTerm2 (Cmd+Q)" command OFF
+  
+  * Confirm closing multiple sessions OFF
+  * Confirm "Quit iTerm2 (Cmd+Q)" command OFF
 
   Appearance
-    * Theme DARK
+  * Theme DARK
 
   Profiles
     General
