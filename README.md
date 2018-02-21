@@ -45,14 +45,17 @@ My favorite browser is Firefox. Ever since they release FF Quantum the performan
 Download the Beta version of [Firefox](https://www.mozilla.org/en-US/firefox/channel/desktop/)
 
 Preferences:
+
   General
-    * When Firefox Starts > Show your home page
-    * Tabs > Open links in tabs instead of new windows
+  * When Firefox Starts > Show your home page
+  * Tabs > Open links in tabs instead of new windows
+    
   Search
-    * Use the address bar for search and navigation
-    * Default Search Engine > DuckDuckGo
+  * Use the address bar for search and navigation
+  * Default Search Engine > DuckDuckGo
 
 Add ons:
+
   * uBlock Origin
   * simple-modify-headers
   * Vimium-ff
@@ -73,6 +76,7 @@ Preferences:
 
   Profiles
     General
+    
     * Send text at start: set_http_proxy (My work environment requires setting proxy settings each new session, do not set this if you don't need to)
     Text
     * Cursor BOX
