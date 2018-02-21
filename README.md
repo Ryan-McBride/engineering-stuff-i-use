@@ -78,11 +78,11 @@ Preferences:
   Profiles
     General
     
-    * Send text at start: set_http_proxy (My work environment requires setting proxy settings each new session, do not set this if you don't need to)
+  * Send text at start: set_http_proxy (My work environment requires setting proxy settings each new session, do not set this if you don't need to)
     Text
-    * Cursor BOX
-    * Blinking Cursor ON
-    * Font 13pt Hack Regular ([Hack](https://github.com/source-foundry/Hack) is my favorite monospaced font. It's also open source)
+  * Cursor BOX
+  * Blinking Cursor ON
+  * Font 13pt Hack Regular ([Hack](https://github.com/source-foundry/Hack) is my favorite monospaced font. It's also open source)
 
 Bash Profile:
   My bash profile is available in [GitHub](https://github.com/Ryan-McBride/dotfiles)
