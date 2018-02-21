@@ -2,7 +2,7 @@
 
 This repo are my personal setup steps for getting a new machine ready for coding, blogs I read, podcasts I listen to, and other things relating to my career. The tools are node-leaning beacuse javascript is typically what I use the most.
 
-* [OSX Setup](#System-update)
+* [OSX Setup](#osx-setup)
 * iOS Setup
 * Ryan's Recommended Reading
 * Programming Podcasts
