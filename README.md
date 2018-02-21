@@ -2,6 +2,13 @@
 
 This repo are my personal setup steps for getting a new machine ready for coding, blogs I read, podcasts I listen to, and other things relating to my career. The tools are node-leaning beacuse javascript is typically what I use the most.
 
+* [OSX Setup](#System-update)
+* iOS Setup
+* Ryan's Recommended Reading
+* Programming Podcasts
+* Music For Getting Stuff Done
+* Home Network
+
 ## OSX Setup
 
 ### System update
@@ -26,7 +33,7 @@ Trackpad
   * Natural Scrolling OFF
 
   More Gestures
-  * Swipe between pages OFF (causes you to sometimes go back in browser by accident)
+  * Swipe between pages OFF (causes me to sometimes go back in browser by accident)
 
 Keyboard
   * Key Repeat FASTEST
