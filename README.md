@@ -3,11 +3,12 @@
 This repo are my personal setup steps for getting a new machine ready for coding, blogs I read, podcasts I listen to, and other things relating to my career. The tools are node-leaning beacuse javascript is typically what I use the most.
 
 * [OSX Setup](#osx-setup)
-* iOS Setup
+* [iOS Setup](#ios-setup)
+* [Home Network](#home-network)
 * Ryan's Recommended Reading
 * Programming Podcasts
 * Music For Getting Stuff Done
-* Home Network
+
 
 ## OSX Setup
 
@@ -161,6 +162,10 @@ If you're going to be developing in Node, you'll want to set up NVM so you can e
 
 [Installation Instructions](https://github.com/creationix/nvm)
 
+### VPN
+
+I generally don't feel safe connecting to public wifi unless I'm also using a VPN. This basically encrypts your traffic to another location, so that the local network, and the network's ISP can't see your personal information. This doesn't provide absolute protection, but can give you some added security when using public networks. It also gives you the benefit of giving yourself a US IP address when you're travelling internationally, so that you can use US Netflix, Hulu, etc.  The service I use for this is [trust.zone](https://trust.zone). It's relatively cheap and has great speeds.
+
 ### Apps
 
 This is just a list of apps that I generally always have installed
@@ -175,3 +180,44 @@ This is just a list of apps that I generally always have installed
     Window management. Basically Size-up but open source
   * [Slack](https://slack.com/)
     Chat app that your company will probably make you use. It's okay though.
+
+## iOS Setup
+
+What phone you want to use is incredibly personal to you. I happen to like using iPhones. I used to use Android because they were more customizable, cheaper, and generally more open, but I switched to iPhone when ease of use, started to outweigh need for weird customization options for me. I was also tired of how Android phones would all come with their own weird flavor of Android, that wouldn't get updates until sometimes months after they came out on Android core. I guess that's not a problem with the Pixel phones but I'm not sold. I currently use an iPhone 8 plus.
+
+### System Update
+
+Just like your computer, you should always keep your phone up to date. There are the occasional regression bugs but in general updates keep your phone secure.
+
+**Settings > General > Software Update**
+
+### System Preferences
+
+These are going to be highly dependant on you, but for security tips I recommend reading [this blog post](https://spreadprivacy.com/iphone-privacy-tips/) by DuckDuckGo.
+
+### Apps
+
+I don't really want to just list all the apps I use because that changes a lot and most of them are pretty common, but I will say that I always use Lyft over Uber. Uber has proven that they are a toxic brogrammer culture that I don't want to contribute to.
+
+## Home Network
+
+Again, this is going to be very custom to your tastes, but there are some things that I can't live without.
+
+### Fastest Internet available in your area
+
+Internet speeds are not something you want to cheap out on. I'm lucky enough to get Gigabit speeds and I highly recommend it.
+
+### Stand Alone Wireless Router
+
+Combo modem/routers are sometimes 'good enough' but they always perform poorly compared to stand alone routers. I like the Airport Extreme. Whatever router you get be sure to change the admin username and password, and set a long but easy to remember password.
+
+Don't open any ports unless you need to, but you probably won't need to. If you're running something that requires you to open ports for incoming connections, you should probably just use AWS instead.
+
+### LAN
+
+LAN is always faster than wifi. Always use lan if possible, especially if your work is sensitive to lag. It's a pain to pull cable all over a house, but you'll be happy once you have. There's plenty of information on getting started on the [home networking subreddit[(https://www.reddit.com/r/HomeNetworking/).
+
+### Home Server
+
+I run a home server for things like Plex and Resilio Sync. I like using a Mac Mini for this because I can just plug it in and forget about it. You could also use something like a raspberry pi but I've found them underpowered for almost anything I've ever used them for.
+
