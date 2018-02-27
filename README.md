@@ -7,7 +7,7 @@ This repo are my personal setup steps for getting a new machine ready for coding
 * [Home Network](#home-network)
 * [Recommended Reading](#recommended-reading)
 * [Programming Podcasts](#programming-podcasts)
-* Music For Getting Stuff Done
+* [Music For Getting Stuff Done](#music-for-getting-stuff-done)
 
 
 ## OSX Setup
