@@ -5,7 +5,7 @@ This repo are my personal setup steps for getting a new machine ready for coding
 * [OSX Setup](#osx-setup)
 * [iOS Setup](#ios-setup)
 * [Home Network](#home-network)
-* Ryan's Recommended Reading
+* [Recommended Reading](#recommended-reading)
 * Programming Podcasts
 * Music For Getting Stuff Done
 
@@ -221,3 +221,14 @@ LAN is always faster than wifi. Always use lan if possible, especially if your w
 
 I run a home server for things like Plex and Resilio Sync. I like using a Mac Mini for this because I can just plug it in and forget about it. You could also use something like a raspberry pi but I've found them underpowered for almost anything I've ever used them for.
 
+## Recommended Reading
+
+### Reference Material
+  * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+  * [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/ref=sr_1_1?s=books&ie=UTF8&qid=1519755674&sr=1-1&keywords=practical+vim)
+  * [Modern Vim](https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X/ref=sr_1_4?s=books&ie=UTF8&qid=1519755534&sr=1-4&keywords=practical+vim) (Not Yet Available)
+  * [Mostly Adequate Guide to Functional Javascript](https://github.com/funpress/mostly-adequate-guide-to-fp)
+
+### Reading Material
+  * [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1519755440&sr=8-1&keywords=brotopia)
+  * [The Code Book](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?s=books&ie=UTF8&qid=1519755469&sr=1-1&keywords=the+book+of+code&dpID=51S0aQLkDCL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
