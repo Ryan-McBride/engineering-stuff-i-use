@@ -6,7 +6,7 @@ This repo are my personal setup steps for getting a new machine ready for coding
 * [iOS Setup](#ios-setup)
 * [Home Network](#home-network)
 * [Recommended Reading](#recommended-reading)
-* Programming Podcasts
+* [Programming Podcasts](#programming-podcasts)
 * Music For Getting Stuff Done
 
 
@@ -223,6 +223,10 @@ I run a home server for things like Plex and Resilio Sync. I like using a Mac Mi
 
 ## Recommended Reading
 
+Reference material is a collection of resources that you aren't likely to read front to back, but reference as needed
+
+Reading material is stuff you read. You know. Like books and stuff.
+
 ### Reference Material
   * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
   * [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/ref=sr_1_1?s=books&ie=UTF8&qid=1519755674&sr=1-1&keywords=practical+vim)
@@ -232,3 +236,13 @@ I run a home server for things like Plex and Resilio Sync. I like using a Mac Mi
 ### Reading Material
   * [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1519755440&sr=8-1&keywords=brotopia)
   * [The Code Book](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?s=books&ie=UTF8&qid=1519755469&sr=1-1&keywords=the+book+of+code&dpID=51S0aQLkDCL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
+  
+## Programming Podcasts
+  * Command Line Heroes
+  * Software Engineering Daily
+  
+## Music for Getting Stuff Done
+I can't listen to podcasts while coding because it's too distracting. I lean towards music without lyrics, but there are exceptions.
+
+  * [musicforprogramming.net](http://www.musicforprogramming.net/)
+  * [YouTube Vaporwave](https://www.youtube.com/results?search_query=vaporwave)
