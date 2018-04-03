@@ -248,3 +248,4 @@ I can't listen to podcasts while coding because it's too distracting. I lean tow
 
   * [musicforprogramming.net](http://www.musicforprogramming.net/)
   * [YouTube Vaporwave](https://www.youtube.com/results?search_query=vaporwave)
+  * [My Work Spotify Playlist](https://open.spotify.com/user/nullofundefined/playlist/2d3seTxgFiIbYnPMXQZBSY?si=-dMwDMaQRG63GQ5lWL4KlQ)
