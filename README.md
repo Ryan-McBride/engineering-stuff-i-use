@@ -180,6 +180,8 @@ This is just a list of apps that I generally always have installed
     Window management. Basically Size-up but open source
   * [Slack](https://slack.com/)
     Chat app that your company will probably make you use. It's okay though.
+  * [Marta](https://marta.yanex.org/)
+    Like finder but good
 
 ## iOS Setup
 
