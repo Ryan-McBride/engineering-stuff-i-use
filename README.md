@@ -240,6 +240,7 @@ Reading material is stuff you read. You know. Like books and stuff.
 ### Reading Material
   * [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1519755440&sr=8-1&keywords=brotopia)
   * [The Code Book](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?s=books&ie=UTF8&qid=1519755469&sr=1-1&keywords=the+book+of+code&dpID=51S0aQLkDCL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
+  * [fivebooks.com's Best 5 Books for Programming + Compsci](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
   
 ## Programming Podcasts
   * Command Line Heroes
