@@ -219,7 +219,7 @@ Don't open any ports unless you need to, but you probably won't need to. If you'
 
 ### LAN
 
-LAN is always faster than wifi. Always use lan if possible, especially if your work is sensitive to lag. It's a pain to pull cable all over a house, but you'll be happy once you have. There's plenty of information on getting started on the [home networking subreddit[(https://www.reddit.com/r/HomeNetworking/).
+LAN is always faster than wifi. Always use lan if possible, especially if your work is sensitive to lag. It's a pain to pull cable all over a house, but you'll be happy once you have. There's plenty of information on getting started on the [home networking subreddit](https://www.reddit.com/r/HomeNetworking/).
 
 ### Home Server
 
