@@ -81,7 +81,7 @@ Preferences:
   * Confirm "Quit iTerm2 (Cmd+Q)" command OFF
 
   Appearance
-  * Theme DARK
+  * Theme [dracula](https://draculatheme.com/iterm/)
 
   Profiles
     General
@@ -119,6 +119,8 @@ $ git config --global credential.helper osxkeychain
 ### Vim
 
 Vim is my text editor of choice. It's not for everyone. Install the latest version of Vim via homebrew. My .vimrc is available in [GitHub](https://github.com/Ryan-McBride/dotfiles)
+
+If you use my dotfiles, it will throw a bunch of errors unless you have [Vundle](https://github.com/VundleVim/Vundle.vim) installed. Run :PluginInstall on first run.
 
 [Vim-anywhere](https://github.com/cknadler/vim-anywhere) is an app that basically lets you quickly open a vim window, edit text, and paste it into any text field you're working with. Great for longform text fields.
 
