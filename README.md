@@ -184,8 +184,8 @@ This is just a list of apps that I generally always have installed
     Chat app that your company will probably make you use. It's okay though.
   * [Marta](https://marta.yanex.org/)
     Like finder but good
-  * [Karabiner](https://pqrs.org/osx/karabiner/index.html)
-    Robust key remapper. I mainly use it to have vim arrow keys everywhere.
+  * [Postman](https://www.getpostman.com/)
+    Making API requests and mock servers
 
 ## iOS Setup
 
