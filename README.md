@@ -249,6 +249,7 @@ Reading material is stuff you read. You know. Like books and stuff.
 ## Programming Podcasts
   * Command Line Heroes
   * Software Engineering Daily
+  * TechStuff
   
 ## Music for Getting Stuff Done
 I can't listen to podcasts while coding because it's too distracting. I lean towards music without lyrics, but there are exceptions.
