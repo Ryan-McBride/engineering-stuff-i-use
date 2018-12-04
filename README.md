@@ -67,6 +67,8 @@ Add ons:
   * uBlock Origin
   * simple-modify-headers
   * Vimium-ff
+  * Privacy Badger
+  * Dark Reader
 
 ### iTerm2
 
