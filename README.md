@@ -174,8 +174,8 @@ I generally don't feel safe connecting to public wifi unless I'm also using a VP
 
 This is just a list of apps that I generally always have installed
 
-  * [1Password](https://1password.com/)
-    Password management. I use their non-hosted solution because I don't trust storing all my passwords on a company's server
+  * [Bitwarden](https://bitwarden.com)
+    Open source password manager that has better free tier options than 1Password. Highly Highly recommend hosting your own instance rather than storing your data on bitwarden servers. Setup is very easy.
   * [Alfred 3](https://www.alfredapp.com/)
     Like Spotlight but a lot faster cleaner, and customizable.
   * [Resilio Sync](https://www.resilio.com/individuals/)
