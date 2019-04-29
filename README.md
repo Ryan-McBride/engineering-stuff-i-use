@@ -188,6 +188,8 @@ This is just a list of apps that I generally always have installed
     Like finder but good
   * [Postman](https://www.getpostman.com/)
     Making API requests and mock servers
+  * [Keybase](https://keybase.io/)
+    Like all secure things, this is a pain to talk people into using but it's a hundred times better than slack for sharing secrets
 
 ## iOS Setup
 
