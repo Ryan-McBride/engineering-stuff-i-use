@@ -126,34 +126,6 @@ If you use my dotfiles, it will throw a bunch of errors unless you have [Vundle]
 
 [Vim-anywhere](https://github.com/cknadler/vim-anywhere) is an app that basically lets you quickly open a vim window, edit text, and paste it into any text field you're working with. Great for longform text fields.
 
-
-### Python
-
-System python is dumb so you should always install Python from Homebrew before messing with stuff. It also installs pip. You should already have Python and Pip installed from the Homebrew section.
-
-Configuring Pip
-```
-$ pip install --upgrade setuptools
-$ pip install --upgrade distribute
-$ pip install --upgrade pip
-```
-
-Executable scripts from Python packages you install will be put in `/usr/local/share/python`, so let's add it to the `$PATH`. To do so, we'll create a `.path` text file in the home directory.
-
-```
-$ cd ~
-$ subl .path
-
-```
-And add these lines to .path:
-
-```
-PATH=/usr/local/share/python:$PATH
-export PATH
-
-```
-Save the file and open a new terminal to take the new `$PATH` into account (everytime you open a terminal, `.bash_profile` gets loaded).
-
 ### AWS Cli tool
 
 The [AWS CLI](https://aws.amazon.com/cli/) tool is the best way to interact with aws programatically. For example, there is no way to clone an S3 bucket to your local machine, without this tool.
@@ -165,10 +137,6 @@ The [AWS CLI](https://aws.amazon.com/cli/) tool is the best way to interact with
 If you're going to be developing in Node, you'll want to set up NVM so you can easily switch between Node versions for different projects.
 
 [Installation Instructions](https://github.com/creationix/nvm)
-
-### VPN
-
-I generally don't feel safe connecting to public wifi unless I'm also using a VPN. This basically encrypts your traffic to another location, so that the local network, and the network's ISP can't see your personal information. This doesn't provide absolute protection, but can give you some added security when using public networks. It also gives you the benefit of giving yourself a US IP address when you're travelling internationally, so that you can use US Netflix, Hulu, etc.  The service I use for this is [trust.zone](https://trust.zone). It's relatively cheap and has great speeds.
 
 ### Apps
 
