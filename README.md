@@ -14,7 +14,7 @@ This repo are my personal setup steps for getting a new machine ready for coding
 
 ### System update
 
-You should always keep any system you're using up to date. Yes, sometimes there are regression bugs (thanks apple) but in general it's the best way to protect yourself from malware. Stop using windows XP because your friends friend once said that 10 is insecure.
+You should always keep any system you're using up to date. Yes, sometimes there are regression bugs (thanks apple) but in general it's the best way to protect yourself from malware.
 
 To update OSX:
 
@@ -150,6 +150,8 @@ This is just a list of apps that I generally always have installed
     Non-hosted dropbox.
   * [Spectacle](https://www.spectacleapp.com/)
     Window management. Basically Size-up but open source
+  * [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)
+    I basically just use this to turn off my laptop keyboard when I plug in my usb keyboard. I use a mechanical keyboard because I'm a loser.
   * [Slack](https://slack.com/)
     Chat app that your company will probably make you use. It's okay though.
   * [Marta](https://marta.yanex.org/)
@@ -208,7 +210,7 @@ Reading material is stuff you read. You know. Like books and stuff.
 ### Reference Material
   * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
   * [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/ref=sr_1_1?s=books&ie=UTF8&qid=1519755674&sr=1-1&keywords=practical+vim)
-  * [Modern Vim](https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X/ref=sr_1_4?s=books&ie=UTF8&qid=1519755534&sr=1-4&keywords=practical+vim) (Not Yet Available)
+  * [Modern Vim](https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X/ref=sr_1_4?s=books&ie=UTF8&qid=1519755534&sr=1-4&keywords=practical+vim)
   * [Mostly Adequate Guide to Functional Javascript](https://github.com/funpress/mostly-adequate-guide-to-fp)
 
 ### Reading Material
