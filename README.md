@@ -69,6 +69,7 @@ Add ons:
   * Vimium-ff
   * Privacy Badger
   * Dark Reader
+  * HTTPS Everywhere
 
 ### iTerm2
 
@@ -105,7 +106,6 @@ Packages to install:
   git
   vim
   bash-completion
-  python
   python3
 
 ### Git
@@ -163,7 +163,7 @@ This is just a list of apps that I generally always have installed
 
 ## iOS Setup
 
-What phone you want to use is incredibly personal to you. I happen to like using iPhones. I used to use Android because they were more customizable, cheaper, and generally more open, but I switched to iPhone when ease of use, started to outweigh need for weird customization options for me. I was also tired of how Android phones would all come with their own weird flavor of Android, that wouldn't get updates until sometimes months after they came out on Android core. I guess that's not a problem with the Pixel phones but I'm not sold. I currently use an iPhone 8 plus.
+What phone you want to use is incredibly personal to you. I happen to like using iPhones. I used to use Android because they were more customizable, cheaper, and generally more open, but I switched to iPhone when ease of use, started to outweigh need for weird customization options for me. I was also tired of how Android phones would all come with their own weird flavor of Android, that wouldn't get updates until sometimes months after they came out on Android core. I guess that's not a problem with the Pixel phones but I'm not sold. I currently use an iPhone Xs Max.
 
 ### System Update
 
@@ -212,6 +212,7 @@ Reading material is stuff you read. You know. Like books and stuff.
   * [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/ref=sr_1_1?s=books&ie=UTF8&qid=1519755674&sr=1-1&keywords=practical+vim)
   * [Modern Vim](https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X/ref=sr_1_4?s=books&ie=UTF8&qid=1519755534&sr=1-4&keywords=practical+vim)
   * [Mostly Adequate Guide to Functional Javascript](https://github.com/funpress/mostly-adequate-guide-to-fp)
+  * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ### Reading Material
   * [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1519755440&sr=8-1&keywords=brotopia)
@@ -221,11 +222,11 @@ Reading material is stuff you read. You know. Like books and stuff.
 ## Programming Podcasts
   * Command Line Heroes
   * Software Engineering Daily
-  * TechStuff
+  * Soft Skills Engineering
   
 ## Music for Getting Stuff Done
 I can't listen to podcasts while coding because it's too distracting. I lean towards music without lyrics, but there are exceptions.
 
   * [musicforprogramming.net](http://www.musicforprogramming.net/)
   * [YouTube Vaporwave](https://www.youtube.com/results?search_query=vaporwave)
-  * [My Work Spotify Playlist](https://open.spotify.com/user/nullofundefined/playlist/2d3seTxgFiIbYnPMXQZBSY?si=-dMwDMaQRG63GQ5lWL4KlQ)
+  
