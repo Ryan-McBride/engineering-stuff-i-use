@@ -24,6 +24,15 @@ To update OSX:
 
 Basic system preferences that I always always change.
 
+Security & Privacy
+  FileVault
+  * Turn on Filevault
+  * Use a key instead of an iCloud account to unlock
+  * Store key in password manager
+  
+  Firewall
+  * Turn on Firewall
+
 Trackpad
   Point & Click
   * Secondary click ON
