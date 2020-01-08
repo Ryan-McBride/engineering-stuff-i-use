@@ -161,8 +161,6 @@ This is just a list of apps that I generally always have installed
     Window management. Basically Size-up but open source
   * [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)
     I basically just use this to turn off my laptop keyboard when I plug in my usb keyboard. I use a mechanical keyboard because I'm a loser.
-  * [Slack](https://slack.com/)
-    Chat app that your company will probably make you use. It's okay though.
   * [Marta](https://marta.yanex.org/)
     Like finder but good
   * [Postman](https://www.getpostman.com/)
