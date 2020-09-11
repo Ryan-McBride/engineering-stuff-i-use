@@ -12,12 +12,13 @@ chocolatey: package manager
   python
 
 generate ssh:
+```
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 Get-Service -Name ssh-agent | Set-Service -StartupType Manual
 ssh-agent -s
 ssh-add .ssh/id_rsa
 clip < .ssh/id_rsa.pub
-
+```
 
 vundle is installed differently on windows: https://github.com/VundleVim/Vundle.vim/wiki/Vundle-for-Windows
 
