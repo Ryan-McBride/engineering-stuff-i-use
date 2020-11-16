@@ -104,6 +104,9 @@ Preferences:
   * Blinking Cursor ON
   * Font 13pt Hack Regular ([Hack](https://github.com/source-foundry/Hack) is my favorite monospaced font. It's also open source)
 
+Oh My ZSH:
+  OSX comes with ZSH now, so install [this](https://ohmyz.sh/) for ease of prettification
+
 Bash Profile:
   My bash profile is available in [GitHub](https://github.com/Ryan-McBride/dotfiles)
 
