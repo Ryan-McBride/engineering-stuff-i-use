@@ -115,10 +115,10 @@ Bash Profile:
 [Homebrew](https://brew.sh/) is my (and most other devs I know's) favorite osx package manager. Just follow the installation instructions on the website.
 
 Packages to install:
-  git
-  vim
+  neovim
   bash-completion
-  python3
+  pyenv
+  wget
 
 ### Git
 
