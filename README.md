@@ -35,15 +35,27 @@ Security & Privacy
 
 Trackpad
   Point & Click
-  * Secondary click ON
-  * Tap to click OFF
-  * Tracking speed FAST
+  * Look up & data detetors: ON | Force Click with one finger
+  * Secondary click: ON | Click with two fingers
+  * Tap to click: OFF
+  * Click: MEDIUM
+  * Tracking speed: FAST
+  * Force Click and haptic feeback: ON
 
   Scroll & Zoom
-  * Natural Scrolling OFF
+  * Scroll direction natural: OFF
+  * Zoom in or out: ON
+  * Smart zoom: ON
+  * Rotate: ON
 
   More Gestures
-  * Swipe between pages OFF (causes me to sometimes go back in browser by accident)
+  * Swipe between pages: OFF // causes me to sometimes go back in browser by accident which is really annoying
+  * Swipe between full-screen apps: ON | Swipe left or right with three fingers
+  * Notification Center: ON | Swipe left from the right edge with two fingers
+  * Mission Control: ON | Swipe up with three fingers
+  * App Exposé: OFF
+  * Launchpad: OFF
+  * Show Desktop: ON | Spread with thumb and three fingers
 
 Keyboard
   * Key Repeat FASTEST
@@ -73,12 +85,10 @@ Preferences:
 
 Add ons:
 
-  * uBlock Origin
-  * simple-modify-headers
-  * Vimium-ff
-  * Privacy Badger
-  * Dark Reader
-  * HTTPS Everywhere
+  * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) | Blocks ads
+  * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+  * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+  * [Vimium-ff](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) | vim keybindings in the browser
 
 ### iTerm2
 
