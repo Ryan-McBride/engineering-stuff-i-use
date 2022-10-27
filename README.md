@@ -69,14 +69,13 @@ Dock
 
 ### Firefox
 
-My favorite browser is Firefox. Ever since they release FF Quantum the performance has been as good if not better than Chrome, with the added benefit of Mozilla not selling all your browsing information to ad companies. I like to use their Beta builds but that might not be for everybody.
+I prefer firefox, I don't really like using google things unless I have to. Never mind the fact that I still use google sheets 100 times a day 💀
 
-Download the Beta version of [Firefox](https://www.mozilla.org/en-US/firefox/channel/desktop/)
+Download [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 
-Preferences:
+Settings:
 
   General
-  * When Firefox Starts > Show your home page
   * Tabs > Open links in tabs instead of new windows
     
   Search
@@ -90,9 +89,11 @@ Add ons:
   * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
   * [Vimium-ff](https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/) | vim keybindings in the browser
 
-### iTerm2
+Theme:
 
-iTerm2 is my favorite terminal emulator, second only to Cathode, which no one should _actually_ use.
+  * [Dracula Dark Theme by RaphGL](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/)
+
+### iTerm2
 
 Download the newest version of [iTerm](http://iterm2.com/)
 
@@ -100,19 +101,16 @@ Preferences:
   General
   
   * Confirm closing multiple sessions OFF
-  * Confirm "Quit iTerm2 (Cmd+Q)" command OFF
+  * Confirm "Quit iTerm2 (Cmd+Q)" command ON
 
   Appearance
   * Theme [dracula](https://draculatheme.com/iterm/)
 
   Profiles
-    General
-    
-  * Send text at start: set_http_proxy (My work environment requires setting proxy settings each new session, do not set this if you don't need to)
     Text
-  * Cursor BOX
-  * Blinking Cursor ON
-  * Font 13pt Hack Regular ([Hack](https://github.com/source-foundry/Hack) is my favorite monospaced font. It's also open source)
+      * Cursor BOX
+      * Blinking Cursor ON
+      * Font 13pt Hack Regular ([Hack](https://github.com/source-foundry/Hack) is my favorite monospaced font. It's also open source)
 
 Oh My ZSH:
   OSX comes with ZSH now, so install [this](https://ohmyz.sh/) for ease of prettification
@@ -140,13 +138,9 @@ $ git config --global user.email "your_email@here.com"
 $ git config --global credential.helper osxkeychain
 ```
 
-### Vim
+### NeoVim
 
-Vim is my text editor of choice. It's not for everyone. Install the latest version of Vim via homebrew. My .vimrc is available in [GitHub](https://github.com/Ryan-McBride/dotfiles)
-
-If you use my dotfiles, it will throw a bunch of errors unless you have [Vundle](https://github.com/VundleVim/Vundle.vim) installed. Run :PluginInstall on first run.
-
-[Vim-anywhere](https://github.com/cknadler/vim-anywhere) is an app that basically lets you quickly open a vim window, edit text, and paste it into any text field you're working with. Great for longform text fields.
+NeoVim is my text editor of choice. Specifically I use a bundle called [nvChad](https://nvchad.com/). My config files are available in [GitHub](https://github.com/Ryan-McBride/dotfiles)
 
 ### AWS Cli tool
 
@@ -166,12 +160,12 @@ This is just a list of apps that I generally always have installed
 
   * [Bitwarden](https://bitwarden.com)
     Open source password manager that has better free tier options than 1Password. Highly Highly recommend hosting your own instance rather than storing your data on bitwarden servers. Setup is very easy.
-  * [Alfred 3](https://www.alfredapp.com/)
+  * [Alfred](https://www.alfredapp.com/)
     Like Spotlight but a lot faster cleaner, and customizable.
   * [Resilio Sync](https://www.resilio.com/individuals/)
     Non-hosted dropbox.
-  * [Spectacle](https://www.spectacleapp.com/)
-    Window management. Basically Size-up but open source
+  * [Rectangle](https://rectangleapp.com/)
+    Window management. A fork of Spectacle which is deprecated.
   * [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)
     I basically just use this to turn off my laptop keyboard when I plug in my usb keyboard. I use a mechanical keyboard because I'm a loser.
   * [Marta](https://marta.yanex.org/)
@@ -235,14 +229,13 @@ Reading material is stuff you read. You know. Like books and stuff.
   * [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 ### Reading Material
-  * [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1519755440&sr=8-1&keywords=brotopia)
   * [The Code Book](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323/ref=sr_1_1?s=books&ie=UTF8&qid=1519755469&sr=1-1&keywords=the+book+of+code&dpID=51S0aQLkDCL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
+  * [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1519755440&sr=8-1&keywords=brotopia)
   * [fivebooks.com's Best 5 Books for Programming + Compsci](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
   
 ## Programming Podcasts
   * Command Line Heroes
   * Software Engineering Daily
-  * Soft Skills Engineering
   
 ## Music for Getting Stuff Done
 I can't listen to podcasts while coding because it's too distracting. I lean towards music without lyrics, but there are exceptions.
